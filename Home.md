@@ -10,5 +10,5 @@ This repository will give you all the iPaaS artifacts for varous labs
 ## Usage
 Here are a few of the items you can reference (right from this project)
 
-GitHub IO Base: 
-ICS WSDL: [something](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png)
+GitHub IO Base: [https://cloudaccelerate.github.io/TTC-iPaaSArtifacts/](https://cloudaccelerate.github.io/TTC-iPaaSArtifacts/)
+ICS WSDL: [https://cloudaccelerate.github.io/TTC-iPaaSArtifacts/ics/createOrder.wsdl](https://cloudaccelerate.github.io/TTC-iPaaSArtifacts/ics/createOrder.wsdl)
