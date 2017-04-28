@@ -8,8 +8,14 @@ Times are changing and things are getting simpler in the Cloud! At Oracle we hav
 This repository will give you all the iPaaS artifacts for varous labs
                             
 ## Usage
-Here are a few of the items you can reference (right from this project)
+Here are a few of the items you can download (right from this project)
 
 GitHub IO Base: [https://cloudaccelerate.github.io/TTC-iPaaSArtifacts/](https://cloudaccelerate.github.io/TTC-iPaaSArtifacts/)
 
-ICS WSDL: [https://cloudaccelerate.github.io/TTC-iPaaSArtifacts/ics/createOrder.wsdl](https://cloudaccelerate.github.io/TTC-iPaaSArtifacts/ics/createOrder.wsdl)
+[createOrder.wsdl](https://cloudaccelerate.github.io/TTC-iPaaSArtifacts/ics/createOrder.wsdl)
+
+[getCustomerBillToInfoQueryForICS.sql](https://cloudaccelerate.github.io/TTC-iPaaSArtifacts/ics/getCustomerBillToInfoQueryForICS.sql)
+
+[TTCSalesOrderAPI.raml](https://cloudaccelerate.github.io/TTC-iPaaSArtifacts/mcs/TTCSalesOrderAPI.raml)
+
+[ttcsalesorderapi.zip](https://cloudaccelerate.github.io/TTC-iPaaSArtifacts/mcs/ttcsalesorderapi.zip)
